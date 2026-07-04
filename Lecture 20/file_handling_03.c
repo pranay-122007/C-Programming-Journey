@@ -1,5 +1,5 @@
 //file handling in c
-//file data read
+//file data read first word only
 #include<stdio.h>
 #include<stdlib.h>
 void main()
